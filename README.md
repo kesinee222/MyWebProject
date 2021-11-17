@@ -7,7 +7,7 @@
 * ดูการคาดการณ์งานซ่อมบำรุง
 
 ## Exemple code
-'''floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,'''
+'''floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,
      floatingActionButton: Container(
        width: 100,
         height: 100,
