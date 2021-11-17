@@ -7,19 +7,19 @@
 * ดูการคาดการณ์งานซ่อมบำรุง
 
 ## Exemple code
-'floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,'
-'     floatingActionButton: Container('
-'       width: 100,'
-'        height: 100,
-'        child: FloatingActionButton('
-'          onPressed: (){},'
-'          child: Icon(Icons.add_a_photo ,size: 40,),'
-'          backgroundColor: Colors.grey,'
-'         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40),'
-'         ),'
-'          ),'
-'   )'
-'    );'
+''' floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,
+     floatingActionButton: Container(
+       width: 100,
+        height: 100,
+        child: FloatingActionButton(
+          onPressed: (){},
+          child: Icon(Icons.add_a_photo ,size: 40,),
+          backgroundColor: Colors.grey,
+         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40),
+         ),
+          ),
+   )
+    ); '''
 
 
 ## Credit
